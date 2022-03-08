@@ -13,6 +13,6 @@ entries:
     sources:
     - http://github.com/govargo/go-happyhelming
     urls:
-    - https://miyajuggler.github.io/chart-repository/happyhelm-1.0.0.tgz
+    - https://miyajuggler.github.io/charts-repository/happyhelm-1.0.0.tgz
     version: 1.0.0
 generated: "2022-03-08T22:27:20.97238+09:00"
