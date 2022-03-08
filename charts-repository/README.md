@@ -1,6 +1,6 @@
 # Happy Helming Chart
 
-* Sample Chart for Happy Helming Application
+- Sample Chart for Happy Helming Application
 
 > [Happly Helming Application](https://github.com/govargo/go-happyhelming)
 ## TL;DR;
