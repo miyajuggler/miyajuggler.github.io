@@ -1,4 +1,4 @@
 title: miyajuggler のページ
 description: 個人の経歴・プロフィール紹介サイト
 # baseurl: ""        # サブディレクトリの場合はここを設定（例: "/blog"）
-# url: "https://yourusername.github.io"  # ご自身の GitHub Pages の URL に合わせて変更してください
+url: 'https://miyajuggler.github.io/' # ご自身の GitHub Pages の URL に合わせて変更してください
