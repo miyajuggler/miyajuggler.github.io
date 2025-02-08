@@ -1,17 +1,64 @@
-<!-- <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7136536804767411"
-     crossorigin="anonymous"></script> -->
-
-# miyajuggler のページ
-
-おはよう  
-こんにちは
-
+---
+layout: default
+title: miyajuggler のページ
 ---
 
-<!-- ## ツイッタータイムライン
+## 経験
 
-<a class="twitter-timeline" data-lang="ja"
-data-limit="5"
-data-width="600"
-data-lang="ja"
-data-dnt="true" href="https://twitter.com/noaboucoffee?ref_src=twsrc%5Etfw">Tweets by noaboucoffee</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
+### 2021/04
+
+クラウド型 DX 支援会社入社
+
+### 2021/08-2022/03
+
+インフラチームに所属し、Kubernetes を利用した環境の起動確認や CI/CD 設計に携わる
+
+### 2022/04-2022/08
+
+製品チームにて、顧客リリース対応や保守業務に携わる
+
+### 2022/09-2023/08
+
+日本国内最大手の信用調査会社の案件開発に参画し、詳細設計、開発、内部結合テスト、外部結合テスト、パフォーマンステストとチューニングまで経験
+
+### 2023/09-2024/01
+
+BI 製品チームにて追加開発と問い合わせ業務を担当
+
+### 2020/02-04
+
+大手モバイルキャリア代理店様向けの案件開発に参画。
+3 か月のスパンで基本設計からリリースまでを経験。
+
+### 2024/05
+
+BI 製品チームに戻り
+7 月より問い合わせ業務を削減すべく、LLM や RAG を利用して問い合わせ削減施策を実施し、2024 年前期と後期を比較し問い合わせ数 40 % 減を達成。
+
+## プロフィール
+
+神戸生まれ。千葉大学科学科を卒業。
+
+成長することが自分の人生です。
+
+### 最近の趣味
+
+筋トレ
+
+### 特技
+
+#### ジャグリング
+
+ジャグリングジャムセッション関東大会優勝
+全国大会ボール部門 3 位
+
+#### 音ゲー
+
+DanceRush Stardom というゲームでペア部門世界一
+
+他、ストリートダンス、ビートボックス、けん玉、大体の大道芸、写真、陸上競技、等多数
+
+## Contact
+
+- [X](https://x.com/mmmiii41)
+- [Connpass](https://connpass.com/user/miyajuggler/)

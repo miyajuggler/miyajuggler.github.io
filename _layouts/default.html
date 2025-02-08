@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{{ page.title | default: site.title }}</title>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css"
+    />
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        margin: 2rem auto;
+        max-width: 800px;
+        line-height: 1.6;
+        padding: 0 1rem;
+        color: #333;
+      }
+      header,
+      footer {
+        text-align: center;
+        margin: 2rem 0;
+      }
+      h1,
+      h2,
+      h3,
+      h4 {
+        color: #222;
+      }
+      a {
+        color: #007acc;
+        text-decoration: none;
+      }
+      a:hover {
+        text-decoration: underline;
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <h1>{{ site.title }}</h1>
+      <p>{{ site.description }}</p>
+    </header>
+    <main>{{ content }}</main>
+    <footer>
+      <p>&copy; {{ site.time | date: '%Y' }} miyajuggler</p>
+    </footer>
+  </body>
+</html>
